@@ -1,0 +1,6 @@
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb

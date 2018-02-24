@@ -1,0 +1,8 @@
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\bin\Debug\InventorySystemTests.dll
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\bin\Debug\InventorySystemTests.pdb
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\bin\Debug\InventorySystem.exe
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\bin\Debug\InventorySystem.pdb
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\obj\Debug\InventorySystemTests.csprojResolveAssemblyReference.cache
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\obj\Debug\InventorySystemTests.dll
+E:\Study\S8\Testing\New folder (2)\InventorySystem\InventorySystemTests\obj\Debug\InventorySystemTests.pdb
